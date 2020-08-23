@@ -1,11 +1,11 @@
 ### 👋 Hi! I'm Ben, a Math/CS undergraduate at Vanderbilt University.
 
-- 🔭 I'm currently working on better blockchain tooling.
+- 🔭 I'm currently working on reproducible local Bitcoin nodes with regtest support.
 - 🌱 I'm currently learning about effect systems, Algebra of Programming, Nix.
 - 👯 I'm looking to collaborate on large scale functional programming projects.
 - 🤔 I'm looking for help with implementing dependently typed languages.
 - 💬 Ask me about blockchain (Ethereum, Bitcoin), recursion schemes, type systems and compilers for functional and imperative languages.
-- 📫 How to reach me: Send me an email!
+- 📫 How to reach me: Send me an email, or reach me on IRC (siraben)!
 - 😄 Pronouns: he/him/his
 
 ### Languages and Tools:
