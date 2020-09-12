@@ -1,7 +1,7 @@
 ### 👋 Hi! I'm Ben, a Math/CS undergraduate at Vanderbilt University.
 
-- 🔭 I'm currently working on reproducible local Bitcoin nodes with regtest support.
-- 🌱 I'm currently learning about effect systems, Algebra of Programming, Nix.
+- 🔭 I'm currently working on cross-compiling Rust to ARM using Nix and developing apps for the reMarkable tablet.
+- 🌱 I'm currently learning about effect systems, Algebra of Programming, Nix flakes.
 - 👯 I'm looking to collaborate on large scale functional programming projects.
 - 🤔 I'm looking for help with implementing dependently typed languages.
 - 💬 Ask me about blockchain (Ethereum, Bitcoin), recursion schemes, type systems and compilers for functional and imperative languages.
