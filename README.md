@@ -1,6 +1,6 @@
 ### 👋 Hi! I'm Ben, a Math/CS undergraduate at Vanderbilt University.
 
-- 🔭 I'm currently working on cross-compiling Rust to ARM using Nix and developing apps for the reMarkable tablet.
+- 🔭 I'm currently working on adding cross-compilation support to various targets on Nixpkgs.
 - 🌱 I'm currently learning about effect systems, Algebra of Programming, Nix flakes.
 - 👯 I'm looking to collaborate on large scale functional programming projects.
 - 🤔 I'm looking for help with implementing dependently typed languages.
