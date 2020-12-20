@@ -12,7 +12,7 @@
 - 📫 How to reach me: Send me an email, or reach me on IRC (siraben)!
 - 😄 Pronouns: he/him/his
 
-### Languages and Tools:
+### Languages and Tools
 
 [<img align="left" alt="Haskell" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/haskell/haskell.png" />]()
 [<img align="left" alt="Nix" width="26px" src="https://avatars0.githubusercontent.com/u/487568?s=200&v=4" />]()
