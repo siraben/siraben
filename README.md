@@ -1,11 +1,11 @@
 ### 👋 Hi! I'm Ben, a Math/CS undergraduate at Vanderbilt University.
 
 - 🔭 I'm currently working on:
-  - Improving Nixpkgs docs
-  - Completing GCC bootstrap via [bootstrappable](https://bootstrappable.org/) and [blynn-compiler](https://github.com/oriansj/blynn-compiler)
-  - [Nix workshop](https://github.com/siraben/nix-workshop) for beginners
-  - [Haskell Advent of Code 2020](https://github.com/siraben/haoc-2020)
-- 🌱 I'm currently learning about effect systems, Algebra of Programming, Nix flakes.
+  - Improving the number of available packages in Nixpkgs on macOS.
+  - Completing GCC bootstrap via [bootstrappable](https://bootstrappable.org/) and [blynn-compiler](https://github.com/oriansj/blynn-compiler).
+  - [Nix workshop](https://github.com/siraben/nix-workshop) for beginners.
+  - A [mobile app](https://cample.app/) for college students to socialize, written in Flutter and Dart.
+- 🌱 I'm currently learning about logic, differential geometry, analysis and connections between category theory and functional programming.
 - 👯 I'm looking to collaborate on large scale functional programming projects.
 - 🤔 I'm looking for help with implementing dependently typed languages.
 - 💬 Ask me about blockchain (Ethereum, Bitcoin), recursion schemes, type systems and compilers for functional and imperative languages.
