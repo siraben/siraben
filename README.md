@@ -2,25 +2,20 @@
 
 - 🔭 I'm currently working on:
   - Improving the number of available packages in Nixpkgs on macOS.
-  - Completing GCC bootstrap via [bootstrappable](https://bootstrappable.org/) and [blynn-compiler](https://github.com/oriansj/blynn-compiler).
-  - [Nix workshop](https://github.com/siraben/nix-workshop) for beginners.
-  - A [mobile app](https://cample.app/) for college students to socialize, written in Flutter and Dart.
+  - Working through [Programming Language Foundations](https://softwarefoundations.cis.upenn.edu/plf-current/index.html)
 - 🌱 I'm currently learning about logic, differential geometry, analysis and connections between category theory and functional programming.
-- 👯 I'm looking to collaborate on large scale functional programming projects.
-- 🤔 I'm looking for help with implementing dependently typed languages.
+- 👯 I'm looking to collaborate on large scale functional programming projects and formal verification efforts.
+- 🤔 I'm looking for help with organizing and developing mathematical theories in Coq.
 - 💬 Ask me about blockchain (Ethereum, Bitcoin), recursion schemes, type systems and compilers for functional and imperative languages.
 - 📫 How to reach me: Send me an email, or reach me on IRC (siraben)!
 
 ### Languages and Tools
 
-[<img align="left" alt="Haskell" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/haskell/haskell.png" />]()
-[<img align="left" alt="Nix" width="26px" src="https://avatars0.githubusercontent.com/u/487568?s=200&v=4" />]()
-[<img align="left" alt="Coq" width="26px" src="https://avatars0.githubusercontent.com/u/621198?s=200&v=4" />]()
-[<img align="left" alt="Linux" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/150px-Tux.svg.png" />]()
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]()
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]()
+Nix, Emacs, Haskell, Coq, C, Forth, Scheme, Assembly, Z80, Git
 
-<br />
+### Mathematics
+
+Type theory, category theory, logic, abstract algebra, topology
 
 ---
 ![siraben's github stats](https://github-readme-stats.vercel.app/api?username=siraben&count_private=true&show_icons=true)
