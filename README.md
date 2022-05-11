@@ -1,5 +1,5 @@
-### 👋 Hi! I'm Ben, a CS and math undergraduate at Vanderbilt University.
-
+### 👋 Hi! I'm Ben.
+- 📚 I study CS and math at Vanderbilt University.
 - 🔭 I'm currently working on:
   - Improving the number of available packages in Nixpkgs on macOS.
   - Working through [Programming Language Foundations](https://softwarefoundations.cis.upenn.edu/plf-current/index.html)
