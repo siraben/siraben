@@ -3,16 +3,20 @@
 - 🔭 I'm currently working on:
   - Improving the number of available packages in Nixpkgs on macOS.
   - Working through [Programming Language Foundations](https://softwarefoundations.cis.upenn.edu/plf-current/index.html).
-- 🥰 I'm currently obsessed with tree-sitter.
-- 🌱 I'm currently learning about model checking, logic, foundations and connections between category theory and functional programming.
-- 🙌 I'm looking to collaborate on large scale functional programming projects and formal verification efforts.
+- 🥰 I'm currently obsessed with tree-sitter, eBPF and build systems.
+- 🌱 I'm currently learning about machine learning, software verification, logic and distributed computing.
+- 🙌 I'm looking to collaborate on formal verification efforts and developer tooling for new and existing languages.
 - 🤔 I'm looking for help with organizing and developing mathematical theories in Coq.
-- 💬 Ask me about blockchain (Ethereum, Bitcoin), recursion schemes, type systems and compilers for functional and imperative languages.
-- 📫 How to reach me: Send me an email, or reach me on IRC (siraben)!
+- 💬 Ask me about blockchain (Ethereum, Bitcoin), mathematics, type systems and compilers for functional and imperative languages.
+- 📫 How to reach me: Send me an email, or reach me on Matrix (siraben)!
 
-### Languages and Tools
+### Languages
 
-Nix, Emacs, Haskell, Coq, Rust, Scheme, C, Forth, Assembly, Z80
+Assembly, C, C++, Coq, Dart, Haskell, Kotlin, Mathematica, Python, Rust, Scheme, Solidity, Typescript
+
+### Tools & Technologies
+
+Ethereum, Emacs, Nix, iOS, Linux, macOS, PyTorch
 
 ### Mathematics
 
