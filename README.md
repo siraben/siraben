@@ -21,6 +21,3 @@ Ethereum, Emacs, Nix, iOS, Linux, macOS, PyTorch
 ### Mathematics
 
 type theory, category theory, logic, abstract algebra, topology, measure theory
-
----
-![siraben's github stats](https://github-readme-stats.vercel.app/api?username=siraben&count_private=true&show_icons=true)
