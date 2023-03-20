@@ -3,7 +3,7 @@
 - 🔭 I'm currently working on:
   - Improving the number of available packages in Nixpkgs on macOS.
   - Working through [Programming Language Foundations](https://softwarefoundations.cis.upenn.edu/plf-current/index.html).
-- 🥰 I'm currently obsessed with tree-sitter, eBPF, build systems, and generative AI (Stable Diffusion).
+- 🥰 I'm currently obsessed with tree-sitter, eBPF, build systems, and foundation models.
 - 🌱 I'm currently learning about machine learning, distributed systems and cybersecurity.
 - 🙌 I'm looking to collaborate on formal verification efforts and developer tooling for new and existing languages.
 - 🤔 I'm looking for help with organizing and developing mathematical theories in Coq.
