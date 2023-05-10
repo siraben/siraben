@@ -1,5 +1,6 @@
 ### 👋 Hi! I'm Ben.
-- 📚 I study CS and math at Vanderbilt University.
+- 📚 I'm a PhD student in CS at Yale.
+- 🎓 I graduated from Vanderbilt in 2023 with a bachelors in CS and honors math.
 - 🔭 I'm currently working on:
   - Improving the number of available packages in Nixpkgs on macOS.
   - Working through [Programming Language Foundations](https://softwarefoundations.cis.upenn.edu/plf-current/index.html).
