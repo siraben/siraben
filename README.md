@@ -1,9 +1,6 @@
 ### 👋 Hi! I'm Ben.
 - 📚 I'm a PhD student in CS at Yale.
 - 🎓 I graduated from Vanderbilt in 2023 with a bachelors in CS and honors math.
-- 🔭 I'm currently working on:
-  - Improving the number of available packages in Nixpkgs on macOS.
-  - Working through [Programming Language Foundations](https://softwarefoundations.cis.upenn.edu/plf-current/index.html).
 - 🥰 I'm currently obsessed with tree-sitter, eBPF, build systems, and foundation models.
 - 🌱 I'm currently learning about machine learning, distributed systems and cybersecurity.
 - 🙌 I'm looking to collaborate on formal verification efforts and developer tooling for new and existing languages.
