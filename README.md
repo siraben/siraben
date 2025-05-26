@@ -1,10 +1,9 @@
 ### 👋 Hi! I'm Ben.
-- 📚 I'm a PhD student in CS at Yale.
-- 🎓 I graduated from Vanderbilt in 2023 with a bachelors in CS and honors math.
+- 🎓 BS in Computer Science and Honors Math, Vanderbilt ’23; MS in Computer Science, Yale ’25.
 - 🥰 I'm currently obsessed with tree-sitter, eBPF, build systems, and foundation models.
 - 🌱 I'm currently learning about machine learning, distributed systems and cybersecurity.
 - 🙌 I'm looking to collaborate on formal verification efforts and developer tooling for new and existing languages.
-- 🤔 I'm looking for help with organizing and developing mathematical theories in Coq.
+- 🤔 I'm looking for help with organizing and developing mathematical theories in Rocq.
 - 💬 Ask me about blockchain (Ethereum, Bitcoin), mathematics, type systems and compilers for functional and imperative languages.
 - 📫 How to reach me: Send me an email, or reach me on Matrix (siraben)!
 
